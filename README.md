@@ -21,7 +21,7 @@ To Visit App:
 `localhost:3000/`  
 
 
-## Visit App
+## Visit Deployed App
 
 https://brave-aryabhata-cb56d3.netlify.app/
 
